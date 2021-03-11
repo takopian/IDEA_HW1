@@ -1,0 +1,16 @@
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\MyConsole.exe
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\MyConsole.deps.json
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\MyConsole.runtimeconfig.json
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\MyConsole.runtimeconfig.dev.json
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\MyConsole.dll
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\ref\MyConsole.dll
+D:\reps\IDEA_HW1\MyConsole\bin\Debug\net5.0\MyConsole.pdb
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.csprojAssemblyReference.cache
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.AssemblyInfoInputs.cache
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.AssemblyInfo.cs
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.csproj.CoreCompileInputs.cache
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.dll
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\ref\MyConsole.dll
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.pdb
+D:\reps\IDEA_HW1\MyConsole\obj\Debug\net5.0\MyConsole.genruntimeconfig.cache
